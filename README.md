@@ -1,145 +1,124 @@
-# 🚀 **Hi, I'm Cortex**  
 
-**C++ Specialist | High-Performance Code Wizard | Low-Level Architect**  
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <h1>
+    Hello World
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-Welcome to my GitHub realm! I breathe **C++** and thrive on pushing systems to their limits—whether it's game engines, embedded systems, or high-frequency trading algorithms. When I'm not optimizing assembly or wrestling with memory layouts, I explore **Rust, Python, and GPU programming**.  
-
----
-
-## ⚡ **Tech Stack**  
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">  
-
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000000)  
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)  
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)  
-![CUDA](https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=000000)  
-![LLVM](https://img.shields.io/badge/LLVM-black?style=for-the-badge&logo=llvm&logoColor=262D3A&labelColor=000000)  
-![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake&logoColor=064F8C&labelColor=000000)  
-
-</div>  
-
----
-
-## 🛠 **Current Obsessions**  
-
-- **Zero-cost abstractions** in modern C++20/23  
-- **SIMD & GPU acceleration** (Vulkan, CUDA, SYCL)  
-- **Compiler design** (Clang, LLVM passes, JIT)  
-- **Bare-metal programming** (ARM Cortex, AVR, RISC-V)  
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;Systems+Architect;Performance+Optimization+Expert;Low-Level+Programming+Enthusiast)](https://git.io/typing-svg)
+  
+  <div>
+    <a href="https://github.com/username">
+      <img src="https://img.shields.io/github/followers/username?label=Follow&style=social" alt="GitHub Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/username/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 
 ---
 
-## 📊 **GitHub Stats**  
+### 👨‍💻 About Me
 
-<!-- Animated GitHub Stats with Streak -->  
-<div align="center">  
+I'm a passionate C++ developer with a deep understanding of systems programming and performance optimization.
 
-![Cortex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cortex&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cortex&layout=compact&theme=radical&hide_border=true&langs_count=6)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Cortex&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+- 🔭 I'm currently working on high-performance computing applications
+- 🌱 Exploring modern C++20/23 features and optimization techniques
+- 💻 Specialized in memory-efficient and cache-friendly algorithms
+- 🚀 Always seeking to squeeze out every bit of performance from code
+- 📚 Strong advocate for clean, maintainable code even in complex systems
 
-</div>  
+### 🛠️ Languages and Tools
 
----
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+</div>
 
-## 🎮 **Projects**  
+### 🔥 My Stats
 
-### 🧠 [**NeuroEngine**](https://github.com/Cortex/NeuroEngine)  
-*A neural network framework written in C++20 with SIMD intrinsics and CUDA backends.*  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark&background=000000" alt="GitHub Streak"/>
+</div>
 
-### ⚡ [**QuantumForge**](https://github.com/Cortex/QuantumForge)  
-*High-performance quantum circuit simulator leveraging metaprogramming.*  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
 
-### 🎲 [**VulkanChess**](https://github.com/Cortex/VulkanChess)  
-*Chess engine with GPU-accelerated move generation using Vulkan compute shaders.*  
+### 📊 Weekly Development Breakdown
 
----
-
-## 📜 **Latest Blog Posts**  
-
-- [**"C++23: The Hidden Gems"**](https://cortex.dev/cpp23-gems)  
-- [**"Writing a JIT Compiler from Scratch"**](https://cortex.dev/jit-from-scratch)  
-- [**"Bare-Metal Rust on Cortex-M"**](https://cortex.dev/rust-cortex-m)  
-
----
-
-## 🤖 **Let's Connect**  
-
-<div align="center">  
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CortexDev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CortexDev)  
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cortex.dev)  
-
-</div>  
-
----
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Cortex&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Profile views"/>  
-</p>  
-
-**"Code is poetry—if you’re willing to debug the compiler errors."**  
-
-</div>  
-
-<!-- SVG Waves Footer -->  
-![Wave](https://raw.githubusercontent.com/Cortex/Cortex/main/wave.svg)  
-
----
-
-**Made with** ❤️ **and** `-O3` **optimizations**  
-
-*(README dynamically generated with GitHub Actions—check the workflow!)*  
-
-```cpp  
-// C++ greeting  
-#include <iostream>  
-int main() {  
-    std::cout << "Thanks for visiting! 🚀\n";  
-    return 0;  
-}  
-```  
-
----
-
-### 🔥 **Pro Tip:**  
-*Want to see magic?* Run `curl -sL https://git.io/cortex | bash` for a terminal animation.  
-
-*(Just kidding... unless?)*  
-
-</div>  
-
-<style>  
-  .highlight {  
-    animation: pulse 2s infinite;  
-  }  
-  @keyframes pulse {  
-    0% { opacity: 1; }  
-    50% { opacity: 0.7; }  
-    100% { opacity: 1; }  
-  }  
-</style>  
-
-<!-- Add this to your profile repo to see animations! -->  
-
-```markdown  
-[![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Cortex.Cortex&color=00ff00&style=flat&logo=github)](https://github.com/Cortex)  
-```  
-
-**Fork this README? Star it first! ⭐**  
-
----  
-
-*(Design inspired by modern dev tools—colors adapt to GitHub dark/light mode.)*  
-
-```bash  
-# Want this README?  
-wget https://raw.githubusercontent.com/Cortex/Cortex/main/README.md  
-```  
-
-**"Optimization is art. Memory is canvas."** — Cortex  
-
-</div>  
+```text
+C++          █████████████████░░░░░   80.25%
+CMake        ██░░░░░░░░░░░░░░░░░░░░   07.15%
+Python       █░░░░░░░░░░░░░░░░░░░░░   05.35%
+Shell        █░░░░░░░░░░░░░░░░░░░░░   04.16%
+Other        ░░░░░░░░░░░░░░░░░░░░░░   03.09%
 ```
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/username/awesome-cpp-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=awesome-cpp-project&theme=dark" />
+  </a>
+  <a href="https://github.com/username/cpp-algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=cpp-algorithms&theme=dark" />
+  </a>
+</div>
+
+### 📚 Latest Blog Posts
+
+- [Optimizing Memory Usage in Modern C++](#)
+- [Understanding Cache-Friendly Data Structures](#)
+- [C++20 Concepts: A Game-Changer for Template Metaprogramming](#)
+- [Multithreading Best Practices in C++](#)
+
+<details>
+  <summary>💻 C++ Tip of the Day</summary>
+  
+  ```cpp
+  // Use std::span for non-owning views of contiguous sequences
+  // Available in C++20
+  void process(std::span<const int> data) {
+      for (int value : data) {
+          // Process each value
+      }
+  }
+  
+  int main() {
+      std::vector<int> vec = {1, 2, 3, 4, 5};
+      std::array<int, 5> arr = {6, 7, 8, 9, 10};
+      int raw_array[5] = {11, 12, 13, 14, 15};
+      
+      // All of these work without copying!
+      process(vec);
+      process(arr);
+      process(raw_array);
+  }
+  ```
+</details>
+
+<div align="center">
+  <h3>⚡ "Premature optimization is the root of all evil" - Donald Knuth ⚡</h3>
+  <p><i>(But between us, optimizing C++ code is incredibly satisfying)</i></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
