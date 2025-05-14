@@ -1,8 +1,3 @@
-Claro! Aqui está o `README.md` **completo**, 100% pronto para copiar e colar — com todas as animações, seções e estilo que você curtiu, e com foco em C++ mas destacando que você programa de tudo:
-
----
-
-````markdown
 <h1 align="center">Cortex</h1>
 
 <p align="center">
@@ -23,20 +18,20 @@ while (learning) {
     benchmark();
     refactor();
 }
-````
+```
 
-* 💡 I code in **many languages**, but **C++ is my weapon of choice**
-* 🧠 I love low-level power, but I bring high-level thinking
-* 🛠️ From embedded to desktop, CLI tools to game engines
+- 💡 I code in **many languages**, but **C++ is my weapon of choice**
+- 🧠 I love low-level power, but I bring high-level thinking
+- 🛠️ From embedded to desktop, CLI tools to game engines
 
 ---
 
 ### 🛠️ Tech Stack
 
-* 🧩 **Primary:** `C++`, `C#`
-* 🔧 Also use: `Python`, `Rust`, `Bash`, `TypeScript`
-* 🧰 Tools: `CMake`, `GDB`, `Valgrind`, `Visual Studio`, `Unity`, `.NET`
-* 🌐 Platforms: `Linux`, `Windows`, `WSL`
+- 🧩 **Primary:** `C++`, `C#`
+- 🔧 Also use: `Python`, `Rust`, `Bash`, `TypeScript`
+- 🧰 Tools: `CMake`, `GDB`, `Valgrind`, `Visual Studio`, `Unity`, `.NET`
+- 🌐 Platforms: `Linux`, `Windows`, `WSL`
 
 ---
 
@@ -67,13 +62,10 @@ while (learning) {
 
 ### 🌐 Connect
 
-[GitHub](https://github.com/cortexms)
+[GitHub](https://github.com/cortex) • [LinkedIn](https://linkedin.com/in/cortex-dev)
 
 ---
 
 <p align="center">
   <strong><i>"I don’t just write code — I architect experiences."</i></strong>
 </p>
-```
-
----
