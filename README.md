@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cortexms
+- 👀 I’m interested in programation
+- 🌱 I’m currently learning cpp
