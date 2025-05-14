@@ -1,62 +1,44 @@
 <h1 align="center">Cortex</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Cortex;C%2B%2B+First.+But+I+code+everything.;Systems.+Games.+Tools.+Performance." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00FFAA&center=true&vCenter=true&width=500&lines=C%2B%2B+developer+first.;I+code+everything.;Clean+architecture+believer.;System-level+thinker.;Performance+above+all." alt="Typing animation" />
 </p>
 
 ---
 
-### 🧬 About Me
+### ⚡ About Me
 
-I’m a developer who writes **code with intent**.  
-Focused on building high-performance systems — from scratch or from chaos.
+I'm a developer who writes code like it matters — because it does.
 
 ```cpp
-// My mindset
-while (learning) {
-    write(clean_code);
-    benchmark();
-    refactor();
+// mindset
+while (alive) {
+    code();
+    learn();
+    improve();
 }
 ```
 
-- 💡 I code in **many languages**, but **C++ is my weapon of choice**
-- 🧠 I love low-level power, but I bring high-level thinking
-- 🛠️ From embedded to desktop, CLI tools to game engines
+- 🧠 Focused on **C++** — but fluent in many languages  
+- 🔍 Passionate about performance, precision, and deep control  
+- 🧩 From game engines to tooling, embedded to .NET
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Toolbox
 
-- 🧩 **Primary:** `C++`, `C#`
-- 🔧 Also use: `Python`, `Rust`, `Bash`, `TypeScript`
-- 🧰 Tools: `CMake`, `GDB`, `Valgrind`, `Visual Studio`, `Unity`, `.NET`
-- 🌐 Platforms: `Linux`, `Windows`, `WSL`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cortex&show_icons=true&theme=tokyonight&hide_title=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortex&layout=compact&langs_count=8&theme=tokyonight" height="170" />
-</p>
+- 💡 **Main stack**: `C++` (C++17/20), `C#`
+- 🔧 Also fluent in: `Python`, `Rust`, `TypeScript`, `Bash`
+- ⚙️ Tools: `CMake`, `GDB`, `Valgrind`, `Visual Studio`, `.NET`, `Unity`
+- 🖥️ Platforms: `Linux`, `Windows`, `WSL`
 
 ---
 
-### 🔥 Contributions
+### 🧭 What I Build
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cortex&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cortex&theme=github-compact&custom_title=My+Contribution+Graph" />
-</p>
+- ⚙️ Native tools & CLIs  
+- 🕹️ Game engines and logic systems  
+- 🔬 Custom libraries, simulations, and low-level frameworks
 
 ---
 
@@ -67,5 +49,5 @@ while (learning) {
 ---
 
 <p align="center">
-  <strong><i>"I don’t just write code — I architect experiences."</i></strong>
+  <strong><i>"I don’t just write code — I shape systems."</i></strong>
 </p>
