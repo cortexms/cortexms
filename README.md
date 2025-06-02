@@ -43,5 +43,5 @@ while (true) {
 ---
 
 <p align="center">
-  <strong><i>by cortex (hash).</i></strong>
+  <strong><i>by cortex (die).</i></strong>
 </p>
